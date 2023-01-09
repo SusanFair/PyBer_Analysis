@@ -10,7 +10,7 @@ The goal of this analysis is to use Pandas libraries, Jupyter Notebook and Matpl
 The results of our analysis show that there are distinct differences between the city locations in a variety of ways.  
 
 ### Total Rides, Drivers and Fares
-As perhaps expected there were more total rides given in the Urban cities (1625) vs the Suburban cities (625) and significantly fewer total rides in the Rural cities (125). 
+As perhaps expected there were more total rides given in the Urban cities (1625) vs the Suburban cities (625) and significantly fewer total rides in the Rural cities (125).
 
 The same was true for Total Drivers and Total Fares.  As the population density increased so did the totals.
 
@@ -26,10 +26,11 @@ From an revenue perspective, the Urban cities produce the highest revenue stream
 
 ![Total Fares by City Type](https://github.com/SusanFair/PyBer_Analysis/blob/main/analysis/Fig1_total_fare_by_city_type.png)
 
+
 ## Summary
 
 ### Overall summary
-Based on the statistical evidence, there are opportunities to be explored that would reduce the increase the revenue in the smaller communities and at the same time make the services offered more efficient and cost effective for the riders.
+Based on the statistical evidence, there are opportunities to be explored that would reduce the increase the revenue in the smaller communities and at the same time make the services offered more efficient and cost effective for the riders.  The following 3 recommendations are the result of this analysis project.
 
 ### Additional financial support
 
