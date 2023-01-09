@@ -10,24 +10,26 @@ The goal of this analysis is to use Pandas libraries, Jupyter Notebook and Matpl
 The results of our analysis show that there are distinct differences between the city locations in a variety of ways.  
 
 ### Total Rides, Drivers and Fares
+As perhaps expected there were more total rides given in the Urban cities (1625) vs the Suburban cities (625) and significantly fewer total rides in the Rural cities (125). 
+
+The same was true for Total Drivers and Total Fares.  As the population density increased so did the totals.
 
 ![Total Fares by City Type](https://github.com/SusanFair/PyBer_Analysis/blob/main/analysis/summay_total.png)
 
 ### Averages
-When we look at the average fare per ride we see that the cost per ride in the Rural is the most expensive, with the Suburban area being in the midrange between Rural and Urban.  The same is true for the average cost per driver.
-In the cost per driver the cost is over $40 more in the Rural cities vs $16.57 in the Urban cities.
+When we look at the average fare per ride we see that the cost per ride in the Rural areas is the most expensive, with the Suburban area being in the midrange between Rural and Urban.  The same is true for the average cost per driver. For the cost per driver the cost is over $40 more in the Rural cities vs $16.57 in the Urban cities.
 
 ![Total Fares by City Type](https://github.com/SusanFair/PyBer_Analysis/blob/main/analysis/summay_total.png)
 
 ### Revenue
-From an income perspective, the Urban cities produce the highest revenue stream across the board with the Suburban and Rural cities contributing sucessively less revenue.  While there are fluctuations across the weeks the relative revenue values stay consisten across the 4 months that were plotted.
+From an revenue perspective, the Urban cities produce the highest revenue stream across the board with the Suburban and Rural cities contributing sucessively less revenue.  While there are fluctuations across the weeks the relative revenue values stay consisten across the 4 months that were plotted.
 
 ![Total Fares by City Type](https://github.com/SusanFair/PyBer_Analysis/blob/main/analysis/Fig1_total_fare_by_city_type.png)
 
 ## Summary
 
 ### Overall summary
-Based on the statistical evidence there are opportunities to be explored that would reduce the increase the revenue in the smaller communities and at the same time make the services offered more efficient and cost effective for the riders.
+Based on the statistical evidence, there are opportunities to be explored that would reduce the increase the revenue in the smaller communities and at the same time make the services offered more efficient and cost effective for the riders.
 
 ### Additional financial support
 
